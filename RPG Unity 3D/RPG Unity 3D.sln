@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG Unity 3D", "Assembly-CSharp.csproj", "{00FC05EC-C822-AC5F-A437-F8B7DFD5CEF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG Unity 3D", "Assembly-CSharp-Editor.csproj", "{0E7D85D7-17B3-5A2C-1F9C-A9FDFA8BCCCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FC05EC-C822-AC5F-A437-F8B7DFD5CEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FC05EC-C822-AC5F-A437-F8B7DFD5CEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FC05EC-C822-AC5F-A437-F8B7DFD5CEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FC05EC-C822-AC5F-A437-F8B7DFD5CEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E7D85D7-17B3-5A2C-1F9C-A9FDFA8BCCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7D85D7-17B3-5A2C-1F9C-A9FDFA8BCCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7D85D7-17B3-5A2C-1F9C-A9FDFA8BCCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7D85D7-17B3-5A2C-1F9C-A9FDFA8BCCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
